@@ -3,6 +3,7 @@
 # [Buildah](https://www.youtube.com/embed/YVk5NgSiUw8) - a tool that facilitates building [Open Container Initiative (OCI)](https://www.opencontainers.org/) container images
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/containers/buildah)](https://goreportcard.com/report/github.com/containers/buildah)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falexandrevicenzi%2Fbuildah.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falexandrevicenzi%2Fbuildah?ref=badge_shield)
 
 
 The Buildah package provides a command line tool that can be used to
@@ -130,3 +131,7 @@ $ ./lighttpd.sh
 **Future goals include:**
 * more CI tests
 * additional CLI commands (?)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falexandrevicenzi%2Fbuildah.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falexandrevicenzi%2Fbuildah?ref=badge_large)
